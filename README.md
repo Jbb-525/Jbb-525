@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I build end-to-end AI systems — agentic pipelines, browser agents, and ML infrastructure.
+I build end-to-end AI systems, from RL research and agentic pipelines and production deployment.
 
 #### Agentic Systems
 **[Financial Agentic RAG](https://github.com/Jbb-525/Agentic-RAG-chatbot-for-Financial-Report-QA)** — LangGraph agent routing financial report queries across Qdrant vector search and SQLite, with CRAG-style relevance loops and SSE streaming to a React frontend.
